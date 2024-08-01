@@ -1,8 +1,8 @@
-# Plant Health Detection Project
+# Leaf Disease Detection Project
 
 ## Project Overview
 
-The Plant Health Detection project aims to classify leaf images into three categories: Healthy, Powdery, and Rusty. This README file provides an overview of the project structure, setup, and instructions to run the code using a Jupyter notebook.
+The Leaf Disease Detection project aims to classify leaf images into three categories: Healthy, Powdery, and Rusty. This README file provides an overview of the project structure, setup, and instructions to run the code using a Jupyter notebook.
 
 ## Dataset
 
