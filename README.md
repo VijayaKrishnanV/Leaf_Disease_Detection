@@ -4,6 +4,10 @@
 
 The Plant Health Detection project aims to classify leaf images into three categories: Healthy, Powdery, and Rusty. This README file provides an overview of the project structure, setup, and instructions to run the code using a Jupyter notebook.
 
+## Dataset
+
+The dataset used in this project is taken from [Kaggle's Plant Disease Recognition Dataset](https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset). Ensure you download the dataset and place the images in the appropriate directories as described below.
+
 ## Project Structure
 
 The project directory is organized as follows:
